@@ -11,7 +11,8 @@ Vous allez mettre en pratique ces notions à travers la **création d’une page
 ## 📘 Ressources fournies
 - Le fichier **TP2_HTML.pdf** est votre **guide de réalisation** : lisez-le attentivement avant de commencer.
 - Le fichier **`Texte.pdf`**, comporte le **contenu textuel** à insérer dans votre page Web, 
-  ainsi que des **annotations** précisant les balises HTML à utiliser ainsi que certaines **valeurs d’attributs** attendues.  
+  ainsi que des **annotations** précisant les balises HTML à utiliser ainsi que certaines **valeurs d’attributs** attendues.
+- Un dossier **ressources** contenant les fichiers multimédias à mettre sur la page.
 
 ---
 
