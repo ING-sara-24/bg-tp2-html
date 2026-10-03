@@ -21,8 +21,6 @@ Vous allez mettre en pratique ces notions à travers la **création d’une page
 1. **Création de votre espace de travail**
    - Les étapes suivantes sont expliquées en détails dans les slide de **TP2_HTML.pdf**: 
    - Créez un compte sur [GitHub].
-   - Demandez à être ajouté.
-   - Accédez ensuite au **lien d’assignement**.
 
 2. **Clonage du dépôt**
    - Une fois votre dépôt individuel généré par Classroom, **clonez-le en local** :
